@@ -1,5 +1,6 @@
 #Created by Aditya K. and Sravan T.
- 
+
+
 print("Welcome to the High-Low Game!\n\nChoose a number in a range which you chose, and we will guess it from your high and low inputs!\n")
  
 print("Enter 'h' if the guess is too high, \n'l' if the guess is too low, and \n'y' if the guess is correct.")
